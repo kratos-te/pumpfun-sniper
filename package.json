@@ -17,7 +17,7 @@
     "pumpdotfun",
     "pumpdotfun bot"
   ],
-  "author": "Whistle",
+  "author": "Kratos",
   "license": "ISC",
   "dependencies": {
     "@coral-xyz/anchor": "^0.30.1",
